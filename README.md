@@ -1,6 +1,7 @@
 # readme
 Ссылки для установки необходимого ПО для работы JAVA
 https://www.youtube.com/watch?v=stYj2RhjvQ8
+
 http://javaops.ru/view/soft
 http://prostoitblog.ru/ustanovka-java-otlichie-jdk-ot-jre/
 https://www.cyberforum.ru/windows7/thread1983250.html
