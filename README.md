@@ -24,3 +24,4 @@ https://drive.google.com/file/d/0B9Ye2auQ_NsFT3pWNkMzWVVybnc/view?pli=1
 https://drive.google.com/file/d/0B9Ye2auQ_NsFaTdYUnpLNFFUeXM/view
 
 
+можно принудительно указать -Djavax.net.ssl.trustStore=/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/security/cacerts -Djavax.net.ssl.trustStorePassword=changeit
