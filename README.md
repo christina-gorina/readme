@@ -31,3 +31,6 @@ https://yadi.sk/d/MthebzvrNj8F5A
 https://yadi.sk/d/liA7-r9fHN9ZMw
 
 https://yadi.sk/d/M2GB1Pmgc_C64w
+
+idea
+https://disk.yandex.ru/d/VwA-i8hve6cdag
